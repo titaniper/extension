@@ -1,0 +1,6 @@
+[submodule "vscode-extension"]
+	path = vscode-extension
+	url = git@github.com:titaniper/vscode-extension.git
+[submodule "chrome-extension"]
+	path = chrome-extension
+	url = git@github.com:titaniper/chrome-extension.git
